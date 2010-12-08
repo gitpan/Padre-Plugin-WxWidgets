@@ -1,6 +1,6 @@
 package Padre::Plugin::WxWidgets;
 BEGIN {
-  $Padre::Plugin::WxWidgets::VERSION = '0.02';
+  $Padre::Plugin::WxWidgets::VERSION = '0.03';
 }
 
 # ABSTRACT: wxWidgets support for Padre
@@ -47,7 +47,7 @@ Padre::Plugin::WxWidgets - wxWidgets support for Padre
 
 =head1 VERSION
 
-version 0.02
+version 0.03
 
 =head1 SYNOPSIS
 

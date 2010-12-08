@@ -13,6 +13,10 @@ share/locale/Padre__Plugin__WxWidgets-ar.mo
 share/locale/Padre__Plugin__WxWidgets-ar.po
 share/locale/Padre__Plugin__WxWidgets-it-it.mo
 share/locale/Padre__Plugin__WxWidgets-it-it.po
+share/locale/Padre__Plugin__WxWidgets-nl-nl.mo
+share/locale/Padre__Plugin__WxWidgets-nl-nl.po
+share/locale/Padre__Plugin__WxWidgets-tr.mo
+share/locale/Padre__Plugin__WxWidgets-tr.po
 share/locale/messages.pot
 t/00-compile.t
 t/release-check-changes.t

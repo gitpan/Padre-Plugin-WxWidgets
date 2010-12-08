@@ -15,6 +15,7 @@ my %WriteMakefileArgs = (
   'AUTHOR' => 'Ahmad M. Zawawi <ahmad.zawawi@gmail.com>',
   'BUILD_REQUIRES' => {
     'File::Find' => '0',
+    'Locale::Msgfmt' => '0.15',
     'Test::More' => '0'
   },
   'CONFIGURE_REQUIRES' => {
@@ -36,10 +37,11 @@ my %WriteMakefileArgs = (
     'HTML::Parse' => '0',
     'HTTP::Request' => '0',
     'LWP::UserAgent' => '0',
+    'Padre' => '0.57',
     'Padre::Plugin' => '0',
     'Padre::Wx' => '0'
   },
-  'VERSION' => '0.02',
+  'VERSION' => '0.03',
   'test' => {
     'TESTS' => 't/*.t'
   }
