@@ -1,5 +1,5 @@
 ---
-abstract: ~
+abstract: 'wxWidgets support for Padre'
 author:
   - 'Ahmad M. Zawawi <ahmad.zawawi@gmail.com>'
 build_requires:
@@ -28,4 +28,4 @@ resources:
   homepage: http://padre.perlide.org/trac/wiki/PadrePluginWxWidgets
   license: http://dev.perl.org/licenses/
   repository: http://svn.perlide.org/padre/trunk/Padre-Plugin-WxWidgets
-version: 0.04
+version: 0.05
